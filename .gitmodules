@@ -1,0 +1,3 @@
+[submodule "0x00-hello_world/0x00-hello_world/Betty"]
+	path = 0x00-hello_world/0x00-hello_world/Betty
+	url = git@github.com:holbertonschool/Betty.git
