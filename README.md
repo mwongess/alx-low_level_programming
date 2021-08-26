@@ -1,4 +1,4 @@
-<a href="README.md"></a><h1>C - Hello, World</h>
+<a href="README.md"></a><h1>C - Hello, World</h1>
 <ul>
   <li>0 - Write a script that runs a C file through the preprocessor and save the result into another file</li>
   <li>1 - Write a script that generates the assembly code of a C code and save it in an output file.</li>
