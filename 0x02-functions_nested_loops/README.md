@@ -1,13 +1,4 @@
 <div class="panel-body">
-    <span id="user_id" data-id="2126"></span>
-
-    
-
-    <!-- Progress vs Score -->
-
-    <!-- Task Body -->
-    
-
 <ul>
 <li>The program should return <code>0</code></li>
 </ul>
