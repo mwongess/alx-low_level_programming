@@ -1,4 +1,5 @@
-#include "main.h"
+
+#include "../main.h"
 
 /**
  * main - check the code for Holberton School students.
@@ -7,6 +8,6 @@
  */
 int main(void)
 {
-	print_alphabet();
+	times_table();
 	return (0);
 }
