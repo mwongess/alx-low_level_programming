@@ -33,4 +33,42 @@ julien@ubuntu:~/0x02$ gcc -Wall -pedantic -Werror -Wextra -std=gnu89 _putchar.c 
 julien@ubuntu:~/0x02$ ./1-alphabet 
 abcdefghijklmnopqrstuvwxyz
 julien@ubuntu:~/0x02$
+</code>
+</pre>
+
+    <p>Write a function that prints 10 times the alphabet, in lowercase, followed by a new line.</p>
+
+<ul>
+<li>Prototype: <code>void print_alphabet_x10(void);</code></li>
+<li>You can only use <code>_putchar</code> twice in your code</li>
+</ul>
+
+<pre><code>julien@ubuntu:~/0x02$ cat 2-main.c
+#include "main.h"
+
+/**
+ * main - check the code for ALX School students.
+ *
+ * Return: Always 0.
+ */
+int main(void)
+{
+    print_alphabet_x10();
+    return (0);
+}
+julien@ubuntu:~/0x02$ gcc -Wall -pedantic -Werror -Wextra -std=gnu89 _putchar.c 2-main.c 2-print_alphabet_x10.c -o 2-alphabet_x10
+julien@ubuntu:~/0x02$ ./2-alphabet_x10 
+abcdefghijklmnopqrstuvwxyz
+abcdefghijklmnopqrstuvwxyz
+abcdefghijklmnopqrstuvwxyz
+abcdefghijklmnopqrstuvwxyz
+abcdefghijklmnopqrstuvwxyz
+abcdefghijklmnopqrstuvwxyz
+abcdefghijklmnopqrstuvwxyz
+abcdefghijklmnopqrstuvwxyz
+abcdefghijklmnopqrstuvwxyz
+abcdefghijklmnopqrstuvwxyz
+julien@ubuntu:~/0x02$ 
 </code></pre>
+
+
