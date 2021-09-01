@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * mai - check code
+ * main - check code
  *
  * Return: Always 0.
  */
