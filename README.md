@@ -53,3 +53,19 @@
 	3-print_remaining_days.c<br />
 	holberton.h<br />
 	main.h<br />
+
+<h3>5 - 0x04. C - More functions, more nested loops</h3>
+	0-isupper.c<br />
+	-isdigit.c<br />
+	2-mul.c<br />
+	3-print_numbers.c<br />
+	4-print_most_numbers.c<br />
+	5-more_numbers.c<br />
+	6-print_line.c<br />
+	7-print_diagonal.c<br />
+	8-print_square.c<br />
+	9-fizz_buzz.c<br />
+	10-print_triangle.c<br />
+	100-prime_factor.c101-print<br />
+	101-print_number.c<br />
+	
