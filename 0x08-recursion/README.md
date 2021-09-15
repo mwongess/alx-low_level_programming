@@ -4,7 +4,7 @@ In this project, I learned about recursion in C.
 
 ## Tests :heavy_check_mark:
 
-* [tests](./tests): Folder of test files. Provided by Holberton School.
+
 
 ## Helper File :raised_hands:
 
@@ -12,7 +12,7 @@ In this project, I learned about recursion in C.
 
 ## Header File :file_folder:
 
-* [holberton.h](./holberton.h): Header file containing prototypes for all
+* [main.h](./main.h): Header file containing prototypes for all
 functions written in the project.
 
 | File                      | Prototype                             |
