@@ -2,9 +2,6 @@
 
 In this project, I learned about recursion in C.
 
-## Tests :heavy_check_mark:
-
-
 
 ## Helper File :raised_hands:
 
