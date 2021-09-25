@@ -2,8 +2,6 @@
 
 In this project, I learned about using `exit`, `calloc`, and `realloc` in C.
 
-## Tests :heavy_check_mark:
-
 
 ## Header File :file_folder:
 
