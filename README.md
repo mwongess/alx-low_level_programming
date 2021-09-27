@@ -1,71 +1,23 @@
-<a href=""><a><h1>Overview</h1>
- <h3>1. 0x00. C - Hello, World</h3>
-    &nbsp;&nbsp;&nbsp;Betty<br>
-    &nbsp;&nbsp;&nbsp;0-prepocessor<br>
-    &nbsp;&nbsp;&nbsp;1-compiler<br>
-    &nbsp;&nbsp;&nbsp;2-assembler<br>
-    &nbsp;&nbsp;&nbsp;3-name<br>
-    &nbsp;&nbsp;&nbsp;4-puts.c<br>
-    &nbsp;&nbsp;&nbsp;5-printf.c<br>
-    &nbsp;&nbsp;&nbsp;6-size.c<br>
-    &nbsp;&nbsp;&nbsp;100-intel<br>
-    &nbsp;&nbsp;&nbsp;101-quote.c<br>
+# Low-Level Programming - Data Structures & Algorithms
 
- <h3>1 - 0x01-variables_if_else_while</h3>
-	0-positive_or_negative.c<br />
-	1-last_digit.c<br />
-	2-print_alphabet.c<br />
-	3-print_alphabets.c<br />
-	4-print_alphabt.c<br />
-	5-print_numbers.c<br />
-	6-print_numberz.c<br />
-	7-print_tebahpla.c<br />
-	8-print_base16.c<br />
-	9-print_comb.c<br />
-	100-print_comb3.c<br />
-	101-print_comb4.c<br />
-	102-print_comb5.c<br />
+This repository contains programs written for the low-level programming and
+algorithm track at Holberton School. In these projects, which  occurred
+throughout the duration of the Year 1 curriculum, I learned about data
+structures, algorithms, and other low-level programming concepts while
+working in the C language. The specific list of projects contained follows:
 
-<h3>3 - 0x02-functions_nested_loops</h3>
-	tests<br/>
-	0-holberton.c<br/>
-	1-alphabet.c<br/>
-	2-print_alphabet_x10.c<br/>
-	3-islower.c<br/>
-	4-isalpha.c<br/>
-	5-sign.c<br/>
-	6-abs.c<br/>
-	7-print_last_digit.c<br/>
-	8-24_hours.c<br/>
-	9-times_table.c<br/>
-	10-add.c10-add.c<br/>
-	11-print_to_98.c<br />
-	100-times_table.c<br/>
-	101-natural.c<br/>
-	102-fibonacci.c<br/>
-	103-fibonacci.c<br/>
-	104-fibonacci.c<br/>
-	
-<h3>4 - 0x03-debugging</h3>
-	0-main.c<br />
-	1-main.c<br />
-	2-largest_number.c<br />
-	3-print_remaining_days.c<br />
-	holberton.h<br />
-	main.h<br />
-
-<h3>5 - 0x04. C - More functions, more nested loops</h3>
-	0-isupper.c<br />
-	-isdigit.c<br />
-	2-mul.c<br />
-	3-print_numbers.c<br />
-	4-print_most_numbers.c<br />
-	5-more_numbers.c<br />
-	6-print_line.c<br />
-	7-print_diagonal.c<br />
-	8-print_square.c<br />
-	9-fizz_buzz.c<br />
-	10-print_triangle.c<br />
-	100-prime_factor.c101-print<br />
-	101-print_number.c<br />
-	
+* [0x00. C - Hello, World](./0x00-hello_world)
+* [0x01. C - Variables, if, else, while](./0x01-variables_if_else_while)
+* [0x02. C - Functions, nested loops](./0x02-functions_nested_loops)
+* [0X03. C - Debbugging](./0x03-debugging)
+* [0x04. C - More functions, more nested loops](./0x04-more_functions_nested_loops)
+* [0x05. C - Pointers, arrays and strings](./0x05-pointers_arrays_strings)
+* [0x06. C - More pointers, arrays and strings](./0x06-pointers_arrays_strings)
+* [0x07. C - Even more pointers, arrays and strings](./0x07-pointers_arrays_strings)
+* [0x08. C - Recursion](./0x08-recursion)
+* [0x09. C - Static libraries](./0x09-static_libraries)
+* [0x0A. C - argc, argv](./0x0A-argc_argv)
+* [0x0B. C - malloc, free](./0x0B-malloc_free)
+* [0x0C. C - More malloc, free](./0x0C-more_malloc_free)
+* [0x0D. C - Preprocessor](./0x0D-preprocessor)
+* [0x0E. C - Structures, typedef](./0x0E-structures_typedef)
