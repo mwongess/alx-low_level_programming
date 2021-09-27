@@ -1,4 +1,4 @@
-# C - Structures, typedef
+# E - Structures, typedef
 
 In this project, I learned about using structures and `typedef` in C.
 
