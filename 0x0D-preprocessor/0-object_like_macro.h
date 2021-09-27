@@ -3,7 +3,7 @@
 
 /*
  * File: 0-object_like_macro.h
- * Auth: Brennan D Baraban
+ * Auth: (cm-amos)Amos Mwongela
  * Desc: Header file that defines a macro named
  *       SIZE as an abbreviation for the token 1024.
  */
