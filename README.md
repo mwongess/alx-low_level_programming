@@ -23,4 +23,5 @@ algorithm track at ALX.The specific list of projects contained follows:
 * [0x12-singly_linked_lists] (./0x12-singly_linked_lists)
 * [0x13-more_singly_linked_lists] (./0x13-more_singly_linked_lists)
 * [0x14-bit_manipulation] (./0x14-bit_manipulation)
+* [0x15-file_io] (./0x15-file_io)
 <img src="img/alx.jpg" />
