@@ -28,5 +28,5 @@ algorithm track at ALX.The specific list of projects contained follows:
 * [0x18-dynamic_libraries] (./0x18-dynamic_libraries)
 * [0x1A-hash_tables] (./0x1A-hash_tables)
 
-
+Alx Logo
 <img src="img/alx.jpg" />
