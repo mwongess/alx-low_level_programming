@@ -1,14 +1,12 @@
 # C - Search Algorithms
 
-This was my Holberton School project on search algorithms. I implemented
+This was my  project on search algorithms. I implemented
 various types of search algorithms and stated the corresponding space/time
 complexities for each.
 
 ## Tests :heavy_check_mark:
 
-* [tests](./tests): Folder of test files for all tasks. Provided by Holberton
-School.
-
+* [tests](./tests): Folder of test files for all tasks.
 ## Helper Files :raised_hands:
 
 * [listint](./listint): Folder of helper files for task 12, singly linked list
